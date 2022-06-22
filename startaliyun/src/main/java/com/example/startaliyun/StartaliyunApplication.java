@@ -14,6 +14,7 @@ public class StartaliyunApplication {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
+        System.out.println("master 冲突测试");
     }
 
 }
