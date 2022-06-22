@@ -12,6 +12,7 @@ public class StartaliyunApplication {
     public static void main(String[] args) {
         SpringApplication.run(StartaliyunApplication.class, args);
         System.out.println("hello");
+        System.out.println("hello");
     }
 
 }
