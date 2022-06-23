@@ -17,6 +17,7 @@ public class StartaliyunApplication {
         System.out.println("master 冲突测试");
         System.out.println("冲突提交");
         System.out.println("push test");
+        System.out.println("poll test");
     }
 
 }
