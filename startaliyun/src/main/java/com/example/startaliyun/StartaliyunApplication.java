@@ -20,6 +20,7 @@ public class StartaliyunApplication {
         System.out.println("test poll check");
         System.out.println("test poll");
         System.out.println("test poll check");
+        System.out.println("ssh - test");
     }
 
 }
