@@ -19,6 +19,7 @@ public class StartaliyunApplication {
         System.out.println("push test");
         System.out.println("poll test");
         System.out.println("ip test");
+        System.out.println("test poll check");
     }
 
 }
