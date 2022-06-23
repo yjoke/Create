@@ -18,6 +18,7 @@ public class StartaliyunApplication {
         System.out.println("冲突提交");
         System.out.println("push test");
         System.out.println("poll test");
+        System.out.println("ip test");
     }
 
 }
